@@ -1,0 +1,6 @@
+D:\MyProjects\Module.Demo\Ice.Module\Console.Dapper\bin\Debug\Console.Dapper.exe.config
+D:\MyProjects\Module.Demo\Ice.Module\Console.Dapper\bin\Debug\Console.Dapper.exe
+D:\MyProjects\Module.Demo\Ice.Module\Console.Dapper\bin\Debug\Console.Dapper.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Console.Dapper\obj\Debug\Console.Dapper.csprojResolveAssemblyReference.cache
+D:\MyProjects\Module.Demo\Ice.Module\Console.Dapper\obj\Debug\Console.Dapper.exe
+D:\MyProjects\Module.Demo\Ice.Module\Console.Dapper\obj\Debug\Console.Dapper.pdb

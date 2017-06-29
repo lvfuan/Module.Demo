@@ -1,0 +1,12 @@
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\Cache.Redis.dll
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\Cache.Redis.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Common.dll
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Text.dll
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Common.xml
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Text.xml
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.dll
+D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.pdb

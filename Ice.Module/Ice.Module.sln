@@ -7,6 +7,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "定时任务", "定时任�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.FluentScheduler", "Console.FluentScheduler\Console.FluentScheduler.csproj", "{5271643F-0AB5-4F63-874F-97DCB202C614}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapper框架", "Dapper框架", "{9986DDA5-B95A-482F-B84D-8557EB59318E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Dapper", "Console.Dapper\Console.Dapper.csproj", "{6068F99E-2849-4025-BB08-9F61CCE0E74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Dapper", "Framework.Dapper\Framework.Dapper.csproj", "{1F682B84-D58A-4A70-ACF6-DD33835B21B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis缓存", "Redis缓存", "{5AE3E0EE-255E-4076-8F34-38B0D475F460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache.Redis", "Cache.Redis\Cache.Redis.csproj", "{A674FB4B-593F-4569-9A7D-C06DFBABE56D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +27,26 @@ Global
 		{5271643F-0AB5-4F63-874F-97DCB202C614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5271643F-0AB5-4F63-874F-97DCB202C614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5271643F-0AB5-4F63-874F-97DCB202C614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6068F99E-2849-4025-BB08-9F61CCE0E74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6068F99E-2849-4025-BB08-9F61CCE0E74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6068F99E-2849-4025-BB08-9F61CCE0E74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6068F99E-2849-4025-BB08-9F61CCE0E74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F682B84-D58A-4A70-ACF6-DD33835B21B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F682B84-D58A-4A70-ACF6-DD33835B21B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F682B84-D58A-4A70-ACF6-DD33835B21B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F682B84-D58A-4A70-ACF6-DD33835B21B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A674FB4B-593F-4569-9A7D-C06DFBABE56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A674FB4B-593F-4569-9A7D-C06DFBABE56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A674FB4B-593F-4569-9A7D-C06DFBABE56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A674FB4B-593F-4569-9A7D-C06DFBABE56D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5271643F-0AB5-4F63-874F-97DCB202C614} = {2964544A-AEED-43AF-B1F0-85957AC1BD71}
+		{6068F99E-2849-4025-BB08-9F61CCE0E74B} = {9986DDA5-B95A-482F-B84D-8557EB59318E}
+		{1F682B84-D58A-4A70-ACF6-DD33835B21B7} = {9986DDA5-B95A-482F-B84D-8557EB59318E}
+		{A674FB4B-593F-4569-9A7D-C06DFBABE56D} = {5AE3E0EE-255E-4076-8F34-38B0D475F460}
 	EndGlobalSection
 EndGlobal

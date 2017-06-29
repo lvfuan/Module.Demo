@@ -1,0 +1,5 @@
+D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\bin\Debug\Framework.Dapper.dll
+D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\bin\Debug\Framework.Dapper.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.dll
+D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.csprojResolveAssemblyReference.cache
