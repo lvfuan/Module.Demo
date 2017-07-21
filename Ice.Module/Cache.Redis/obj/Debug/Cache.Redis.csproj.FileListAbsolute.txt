@@ -10,3 +10,16 @@ D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Redis.xm
 D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Text.xml
 D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.dll
 D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.pdb
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\Cache.Redis.dll
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\Cache.Redis.pdb
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Common.dll
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Interfaces.dll
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Redis.dll
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Text.dll
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Common.xml
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Interfaces.xml
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Redis.xml
+F:\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Text.xml
+F:\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.csprojResolveAssemblyReference.cache
+F:\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.dll
+F:\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.pdb

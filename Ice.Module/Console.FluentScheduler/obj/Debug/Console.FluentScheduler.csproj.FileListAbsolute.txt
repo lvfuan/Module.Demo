@@ -7,3 +7,12 @@ D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentSch
 D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.csprojResolveAssemblyReference.cache
 D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.exe
 D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.pdb
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.exe.config
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.exe
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.pdb
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.dll
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.pdb
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.xml
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.csprojResolveAssemblyReference.cache
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.exe
+F:\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.pdb
