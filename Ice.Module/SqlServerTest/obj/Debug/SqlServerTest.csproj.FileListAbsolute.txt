@@ -1,0 +1,12 @@
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\OrmTest.exe
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\OrmTest.pdb
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\SqlSugar.dll
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\SyntacticSugar.dll
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\System.Data.SQLite.dll
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\MySql.Data.dll
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\Newtonsoft.Json.dll
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\bin\Debug\SqlSugar.pdb
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\obj\Debug\SqlServerTest.csprojResolveAssemblyReference.cache
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\obj\Debug\OrmTest.exe
+G:\SqlSugar\Src\Asp.Net\SqlServerTest\obj\Debug\OrmTest.pdb
