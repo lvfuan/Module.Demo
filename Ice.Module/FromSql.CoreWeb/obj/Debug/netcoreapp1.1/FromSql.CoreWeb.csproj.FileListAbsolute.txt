@@ -1,0 +1,8 @@
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\bin\Debug\netcoreapp1.1\FromSql.CoreWeb.deps.json
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\bin\Debug\netcoreapp1.1\FromSql.CoreWeb.runtimeconfig.json
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\bin\Debug\netcoreapp1.1\FromSql.CoreWeb.runtimeconfig.dev.json
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\bin\Debug\netcoreapp1.1\FromSql.CoreWeb.dll
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\obj\Debug\netcoreapp1.1\FromSql.CoreWeb.AssemblyInfo.cs
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\bin\Debug\netcoreapp1.1\FromSql.CoreWeb.pdb
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\obj\Debug\netcoreapp1.1\FromSql.CoreWeb.dll
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\obj\Debug\netcoreapp1.1\FromSql.CoreWeb.pdb
