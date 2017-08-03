@@ -1,0 +1,10 @@
+G:\Jack.ExampleDemo\ExcelHandle\bin\Debug\NPOI.ExcelHandle.dll
+G:\Jack.ExampleDemo\ExcelHandle\bin\Debug\NPOI.ExcelHandle.pdb
+G:\Jack.ExampleDemo\ExcelHandle\obj\Debug\NPOI.ExcelHandle.dll
+G:\Jack.ExampleDemo\ExcelHandle\obj\Debug\NPOI.ExcelHandle.pdb
+G:\Jack.ExampleDemo\ExcelHandle\obj\Debug\NPOI.ExcelHandle.csprojResolveAssemblyReference.cache
+G:\Module.Demo\Ice.Module\ExcelHandle\bin\Debug\NPOI.ExcelHandle.dll
+G:\Module.Demo\Ice.Module\ExcelHandle\bin\Debug\NPOI.ExcelHandle.pdb
+G:\Module.Demo\Ice.Module\ExcelHandle\obj\Debug\NPOI.ExcelHandle.csprojResolveAssemblyReference.cache
+G:\Module.Demo\Ice.Module\ExcelHandle\obj\Debug\NPOI.ExcelHandle.dll
+G:\Module.Demo\Ice.Module\ExcelHandle\obj\Debug\NPOI.ExcelHandle.pdb

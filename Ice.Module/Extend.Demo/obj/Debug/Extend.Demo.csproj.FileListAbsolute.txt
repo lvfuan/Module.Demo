@@ -1,0 +1,5 @@
+G:\Module.Demo\Ice.Module\Extend.Demo\bin\Debug\Extend.Demo.dll
+G:\Module.Demo\Ice.Module\Extend.Demo\bin\Debug\Extend.Demo.pdb
+G:\Module.Demo\Ice.Module\Extend.Demo\obj\Debug\Extend.Demo.dll
+G:\Module.Demo\Ice.Module\Extend.Demo\obj\Debug\Extend.Demo.pdb
+G:\Module.Demo\Ice.Module\Extend.Demo\obj\Debug\Extend.Demo.csprojResolveAssemblyReference.cache
