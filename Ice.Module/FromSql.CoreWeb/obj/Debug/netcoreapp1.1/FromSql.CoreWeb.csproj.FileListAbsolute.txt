@@ -6,3 +6,4 @@ G:\Module.Demo\Ice.Module\FromSql.CoreWeb\obj\Debug\netcoreapp1.1\FromSql.CoreWe
 G:\Module.Demo\Ice.Module\FromSql.CoreWeb\bin\Debug\netcoreapp1.1\FromSql.CoreWeb.pdb
 G:\Module.Demo\Ice.Module\FromSql.CoreWeb\obj\Debug\netcoreapp1.1\FromSql.CoreWeb.dll
 G:\Module.Demo\Ice.Module\FromSql.CoreWeb\obj\Debug\netcoreapp1.1\FromSql.CoreWeb.pdb
+G:\Module.Demo\Ice.Module\FromSql.CoreWeb\obj\Debug\netcoreapp1.1\FromSql.CoreWeb.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+G:\Module.Demo\Ice.Module\HelpYou.Com\bin\Debug\netcoreapp1.1\HelpYou.Com.deps.json
+G:\Module.Demo\Ice.Module\HelpYou.Com\bin\Debug\netcoreapp1.1\HelpYou.Com.runtimeconfig.json
+G:\Module.Demo\Ice.Module\HelpYou.Com\bin\Debug\netcoreapp1.1\HelpYou.Com.runtimeconfig.dev.json
+G:\Module.Demo\Ice.Module\HelpYou.Com\bin\Debug\netcoreapp1.1\HelpYou.Com.dll
+G:\Module.Demo\Ice.Module\HelpYou.Com\bin\Debug\netcoreapp1.1\HelpYou.Com.pdb
+G:\Module.Demo\Ice.Module\HelpYou.Com\obj\Debug\netcoreapp1.1\HelpYou.Com.AssemblyInfo.cs
+G:\Module.Demo\Ice.Module\HelpYou.Com\obj\Debug\netcoreapp1.1\HelpYou.Com.dll
+G:\Module.Demo\Ice.Module\HelpYou.Com\obj\Debug\netcoreapp1.1\HelpYou.Com.pdb
+G:\Module.Demo\Ice.Module\HelpYou.Com\obj\Debug\netcoreapp1.1\HelpYou.Com.csprojResolveAssemblyReference.cache

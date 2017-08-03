@@ -1,0 +1,7 @@
+G:\Jack.ExampleDemo\ExcelHandle\bin\Debug\ExcelHandle.dll
+G:\Jack.ExampleDemo\ExcelHandle\bin\Debug\ExcelHandle.pdb
+G:\Jack.ExampleDemo\ExcelHandle\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\Jack.ExampleDemo\ExcelHandle\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\Jack.ExampleDemo\ExcelHandle\bin\Debug\NPOI.xml
+G:\Jack.ExampleDemo\ExcelHandle\obj\Debug\ExcelHandle.dll
+G:\Jack.ExampleDemo\ExcelHandle\obj\Debug\ExcelHandle.pdb

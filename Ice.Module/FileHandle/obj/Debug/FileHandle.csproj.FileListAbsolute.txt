@@ -1,0 +1,10 @@
+G:\Jack.ExampleDemo\FileHandle\bin\Debug\FileHandle.dll
+G:\Jack.ExampleDemo\FileHandle\bin\Debug\FileHandle.pdb
+G:\Jack.ExampleDemo\FileHandle\obj\Debug\FileHandle.csprojResolveAssemblyReference.cache
+G:\Jack.ExampleDemo\FileHandle\obj\Debug\FileHandle.dll
+G:\Jack.ExampleDemo\FileHandle\obj\Debug\FileHandle.pdb
+G:\Module.Demo\Ice.Module\FileHandle\bin\Debug\FileHandle.dll
+G:\Module.Demo\Ice.Module\FileHandle\bin\Debug\FileHandle.pdb
+G:\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.csprojResolveAssemblyReference.cache
+G:\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.dll
+G:\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.pdb
