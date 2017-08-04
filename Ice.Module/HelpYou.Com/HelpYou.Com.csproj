@@ -16,36 +16,31 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\css\bootstrap-theme.css" />
+    <Content Include="wwwroot\css\bootstrap-theme.css.map" />
+    <Content Include="wwwroot\css\bootstrap-theme.min.css" />
+    <Content Include="wwwroot\css\bootstrap-theme.min.css.map" />
+    <Content Include="wwwroot\css\bootstrap.css" />
+    <Content Include="wwwroot\css\bootstrap.css.map" />
     <Content Include="wwwroot\css\bootstrap.min.css" />
-    <Content Include="wwwroot\css\font-awesome.min.css" />
-    <Content Include="wwwroot\css\templatemo-style.css" />
-    <Content Include="wwwroot\css\wow-animate.css" />
-    <Content Include="wwwroot\font\fontawesome-webfont.eot" />
-    <Content Include="wwwroot\font\fontawesome-webfont.svg" />
-    <Content Include="wwwroot\font\fontawesome-webfont.ttf" />
-    <Content Include="wwwroot\font\fontawesome-webfont.woff" />
-    <Content Include="wwwroot\images\creative-writing.png" />
-    <Content Include="wwwroot\images\first-bg.jpg" />
-    <Content Include="wwwroot\images\fourth-bg.jpg" />
-    <Content Include="wwwroot\images\image-post.jpg" />
-    <Content Include="wwwroot\images\logo.png" />
-    <Content Include="wwwroot\images\photo-1.jpg" />
-    <Content Include="wwwroot\images\photo-2.jpg" />
-    <Content Include="wwwroot\images\photo-3.jpg" />
-    <Content Include="wwwroot\images\photo-4.jpg" />
-    <Content Include="wwwroot\images\post-header.jpg" />
-    <Content Include="wwwroot\images\recent-post-1.jpg" />
-    <Content Include="wwwroot\images\recent-post-2.jpg" />
-    <Content Include="wwwroot\images\second-bg.jpg" />
-    <Content Include="wwwroot\images\third-bg.jpg" />
-    <Content Include="wwwroot\images\tm-photo-1.jpg" />
-    <Content Include="wwwroot\images\tm-photo-2.jpg" />
-    <Content Include="wwwroot\images\tm-photo-3.jpg" />
-    <Content Include="wwwroot\js\main.js" />
-    <Content Include="wwwroot\js\vendor\bootstrap.min.js" />
-    <Content Include="wwwroot\js\vendor\jquery-1.11.1.min.js" />
-    <Content Include="wwwroot\js\vendor\modernizr-2.6.2-respond-1.1.0.min.js" />
-    <Content Include="wwwroot\js\vendor\wow-animate.js" />
+    <Content Include="wwwroot\css\bootstrap.min.css.map" />
+    <Content Include="wwwroot\css\signin.css" />
+    <Content Include="wwwroot\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="wwwroot\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="wwwroot\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="wwwroot\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="wwwroot\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="wwwroot\images\01.jpg" />
+    <Content Include="wwwroot\images\02.jpg" />
+    <Content Include="wwwroot\images\03.gif" />
+    <Content Include="wwwroot\images\150183273251655.png" />
+    <Content Include="wwwroot\images\log.png" />
+    <Content Include="wwwroot\images\log2.png" />
+    <Content Include="wwwroot\images\log3.jpg" />
+    <Content Include="wwwroot\js\bootstrap.js" />
+    <Content Include="wwwroot\js\bootstrap.min.js" />
+    <Content Include="wwwroot\js\jquery-1.11.3.min.js" />
+    <Content Include="wwwroot\js\signin.js" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Autofac" Version="4.6.1" />
@@ -54,17 +49,31 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.3" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="1.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="1.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.2" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.2" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="1.1.1" />
   </ItemGroup>
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <EmbeddedResource Update="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Custom\" />
   </ItemGroup>
 
 </Project>
