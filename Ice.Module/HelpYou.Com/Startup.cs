@@ -45,7 +45,12 @@ namespace HelpYou.Com
         {
             // Add framework services.
             services.AddDbContext<HelpYouDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("HelpYouDbContext")));
-            services.AddSingleton<IMenu, MenuServer>(); //注入 (netCore自带注入)
+
+            #region  注入 (netCore自带注入
+            services.AddSingleton<ICustom, CustomServer>();
+            services.AddSingleton<IMenu, MenuServer>();
+            #endregion
+
             services.AddMvc();
         }
         #endregion
@@ -71,7 +76,7 @@ namespace HelpYou.Com
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Custom}/{action=SignIn}/{id?}");
             });
             HelpYouDBInit.Initialize(context);
         }

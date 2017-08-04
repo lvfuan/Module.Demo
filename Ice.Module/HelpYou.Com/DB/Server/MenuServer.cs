@@ -11,11 +11,7 @@ namespace HelpYou.Com.DB.Server
 {
     public class MenuServer : HelpYouServe<MenuModel>, IMenu
     {
-        public readonly HelpYouDbContext _dbContext = ContextFactory.GetInstanceContext();
-        ~MenuServer()
-        {
-            this._dbContext.Dispose();
-        }
+        //public readonly HelpYouDbContext _dbContext = ContextFactory.GetInstanceContext();
         /// <summary>
         /// 根据父级Url查询子集
         /// </summary>

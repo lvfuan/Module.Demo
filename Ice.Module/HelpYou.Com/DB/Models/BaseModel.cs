@@ -10,7 +10,11 @@ namespace HelpYou.Com.DB.Models
     public class BaseModel
     {
         [Key]
-        public int Id { get; set; }
+        public int? Id { get; set; }
+        public DateTime? CreateTime { get; set; }
+        public string CreateUser { get; set; }
+        public DateTime? UpdateTime { get; set; }
+        public string UpdateUser { get; set; }
         public bool? State { get; set; }
     }
 }
