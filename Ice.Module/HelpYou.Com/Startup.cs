@@ -5,6 +5,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using HelpYou.Com.DB.Context;
+using HelpYou.Com.DB.Interface;
+using HelpYou.Com.DB.Server;
+using Autofac;
 
 namespace HelpYou.Com
 {
@@ -23,15 +26,31 @@ namespace HelpYou.Com
         public IConfigurationRoot Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
+
+        #region Autofac 注入   ContainerBuilder未找到到Populate()方法，暂时不启用
+        //public IContainer ApplicationContainer { get; private set; }
+        //public void IServiceProvider(IServiceCollection services)
+        //{
+        //    // Add framework services.
+        //    services.AddDbContext<HelpYouDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("HelpYouDbContext")));
+        //    var builder = new ContainerBuilder();
+        //    builder.RegisterType<MenuServer>().As<IMenu>();
+        //    builder.Populate(services);
+        //    this.ApplicationContainer = builder.Build();
+        //    services.AddMvc();
+        //}
+        #endregion
+        #region NetCore 自带注入
         public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
             services.AddDbContext<HelpYouDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("HelpYouDbContext")));
+            services.AddSingleton<IMenu, MenuServer>(); //注入 (netCore自带注入)
             services.AddMvc();
         }
-
+        #endregion
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory,HelpYouDbContext context)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory, HelpYouDbContext context)
         {
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();

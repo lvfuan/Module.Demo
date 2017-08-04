@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace HelpYou.Com.DB.Interface
 {
-     public interface IHelpYou
+     public interface IHelpYou <T>where T :class,new()
     {
-        Guid GuidItem();
+        //Guid GuidItem();
     }
 }

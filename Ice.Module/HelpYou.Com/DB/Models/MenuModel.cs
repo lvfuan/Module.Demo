@@ -10,5 +10,6 @@ namespace HelpYou.Com.DB.Models
         public string Name { get; set; }
         public string Code { get; set; }
         public string ParentUrl { get; set; }
+        public int Level { get; set; }
     }
 }

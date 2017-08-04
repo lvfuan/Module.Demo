@@ -2,6 +2,19 @@
   "version": 2,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
+      "Autofac/4.6.1": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0",
+          "System.ComponentModel": "4.0.1"
+        },
+        "compile": {
+          "lib/netstandard1.1/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/Autofac.dll": {}
+        }
+      },
       "Libuv/1.9.1": {
         "type": "package",
         "dependencies": {
@@ -3910,6 +3923,19 @@
     }
   },
   "libraries": {
+    "Autofac/4.6.1": {
+      "sha512": "/feXiAKiSe9XLK+fdnz0p1iDg6JCkOhjqMkw9ewGy0f6IzXgmPLDRa4FUg6nIGRm2sTO677w/76uJ5OJU6EiyA==",
+      "type": "package",
+      "path": "autofac/4.6.1",
+      "files": [
+        "autofac.4.6.1.nupkg.sha512",
+        "autofac.nuspec",
+        "lib/net45/Autofac.dll",
+        "lib/net45/Autofac.xml",
+        "lib/netstandard1.1/Autofac.dll",
+        "lib/netstandard1.1/Autofac.xml"
+      ]
+    },
     "Libuv/1.9.1": {
       "sha512": "uqX2Frwf9PW8MaY7PRNY6HM5BpW1D8oj1EdqzrmbEFD5nH63Yat3aEjN/tws6Tw6Fk7LwmLBvtUh32tTeTaHiA==",
       "type": "package",
@@ -10226,6 +10252,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "Autofac >= 4.6.1",
       "Microsoft.ApplicationInsights.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore >= 1.1.2",
       "Microsoft.AspNetCore.Mvc >= 1.1.3",
@@ -10296,6 +10323,10 @@
           "Microsoft.AspNetCore.StaticFiles": {
             "target": "Package",
             "version": "1.1.2"
+          },
+          "Autofac": {
+            "target": "Package",
+            "version": "4.6.1"
           }
         },
         "imports": [

@@ -24,7 +24,7 @@ namespace HelpYou.Com.DB.Context
                 DataSource = "127.0.0.1",
                 InitialCatalog = "HelpYouDB",
                 UserID = "sa",
-                Password = "jack116"
+                Password = "123"
             };
             optionsBuilder.UseSqlServer(sqlConnectionStringBuilder.ConnectionString);
             base.OnConfiguring(optionsBuilder);
