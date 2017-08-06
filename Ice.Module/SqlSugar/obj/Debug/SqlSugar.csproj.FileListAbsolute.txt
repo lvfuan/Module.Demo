@@ -16,3 +16,11 @@ G:\Module.Demo\Ice.Module\SqlSugar\bin\Debug\System.Data.SQLite.dll
 G:\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.dll
 G:\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\SqlSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\SqlSugar.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\MySql.Data.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\System.Data.SQLite.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.pdb

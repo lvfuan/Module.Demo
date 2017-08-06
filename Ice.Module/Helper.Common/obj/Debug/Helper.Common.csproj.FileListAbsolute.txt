@@ -8,3 +8,8 @@ G:\Module.Demo\Ice.Module\Helper.Common\bin\Debug\Helper.Common.pdb
 G:\Module.Demo\Ice.Module\Helper.Common\obj\Debug\Helper.Common.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\Helper.Common\obj\Debug\Helper.Common.dll
 G:\Module.Demo\Ice.Module\Helper.Common\obj\Debug\Helper.Common.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Helper.Common\bin\Debug\Helper.Common.dll
+D:\MyProjects\Module.Demo\Ice.Module\Helper.Common\bin\Debug\Helper.Common.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Helper.Common\obj\Debug\Helper.Common.dll
+D:\MyProjects\Module.Demo\Ice.Module\Helper.Common\obj\Debug\Helper.Common.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Helper.Common\obj\Debug\Helper.Common.csprojResolveAssemblyReference.cache
