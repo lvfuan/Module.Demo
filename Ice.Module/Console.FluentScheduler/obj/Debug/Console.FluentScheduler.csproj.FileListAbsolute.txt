@@ -1,12 +1,3 @@
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.exe.config
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.exe
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.pdb
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.dll
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.pdb
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.xml
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.csprojResolveAssemblyReference.cache
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.exe
-D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.pdb
 G:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.exe.config
 G:\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.exe
 G:\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.pdb
@@ -16,3 +7,11 @@ G:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.dll
 G:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.pdb
 G:\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.xml
 G:\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.csprojResolveAssemblyReference.cache
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.exe.config
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.exe
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\Console.FluentScheduler.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.dll
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.xml
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.exe
+D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.pdb

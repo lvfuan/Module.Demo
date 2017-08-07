@@ -22,3 +22,15 @@ G:\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\SqlSugar.pdb
 G:\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\SqlServerTest.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\OrmTest.exe
 G:\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\OrmTest.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\OrmTest.exe
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\OrmTest.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\SqlSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\SyntacticSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\System.Data.SQLite.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\MySql.Data.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\SqlSugar.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\SqlServerTest.csprojResolveAssemblyReference.cache
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\OrmTest.exe
+D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\OrmTest.pdb

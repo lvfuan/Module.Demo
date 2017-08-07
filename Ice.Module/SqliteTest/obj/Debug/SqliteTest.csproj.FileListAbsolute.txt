@@ -10,3 +10,15 @@ G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqlSugar.pdb
 G:\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.exe
 G:\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqliteTest.exe
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqliteTest.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqlSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SyntacticSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\System.Data.SQLite.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\MySql.Data.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqlSugar.pdb
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.csprojResolveAssemblyReference.cache
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.exe
+D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.pdb

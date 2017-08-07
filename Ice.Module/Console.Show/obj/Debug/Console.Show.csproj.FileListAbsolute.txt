@@ -4,3 +4,8 @@ G:\Module.Demo\Ice.Module\Console.Show\bin\Debug\Console.Show.pdb
 G:\Module.Demo\Ice.Module\Console.Show\obj\Debug\Console.Show.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\Console.Show\obj\Debug\Console.Show.exe
 G:\Module.Demo\Ice.Module\Console.Show\obj\Debug\Console.Show.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Console.Show\bin\Debug\Console.Show.exe.config
+D:\MyProjects\Module.Demo\Ice.Module\Console.Show\bin\Debug\Console.Show.exe
+D:\MyProjects\Module.Demo\Ice.Module\Console.Show\bin\Debug\Console.Show.pdb
+D:\MyProjects\Module.Demo\Ice.Module\Console.Show\obj\Debug\Console.Show.exe
+D:\MyProjects\Module.Demo\Ice.Module\Console.Show\obj\Debug\Console.Show.pdb

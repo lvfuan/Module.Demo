@@ -24,3 +24,16 @@ G:\Module.Demo\Ice.Module\MySqlTest\bin\Debug\SqlSugar.pdb
 G:\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.exe
 G:\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.pdb
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\MySqlTest.exe.config
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\MySqlTest.exe
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\MySqlTest.pdb
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\SqlSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\SyntacticSugar.dll
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\System.Data.SQLite.dll
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\MySql.Data.dll
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\SqlSugar.pdb
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.csprojResolveAssemblyReference.cache
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.exe
+D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.pdb

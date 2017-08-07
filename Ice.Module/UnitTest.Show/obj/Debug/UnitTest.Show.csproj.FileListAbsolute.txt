@@ -7,3 +7,12 @@ G:\Module.Demo\Ice.Module\UnitTest.Show\bin\Debug\zh-Hans\Microsoft.VisualStudio
 G:\Module.Demo\Ice.Module\UnitTest.Show\obj\Debug\UnitTest.Show.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\UnitTest.Show\obj\Debug\UnitTest.Show.dll
 G:\Module.Demo\Ice.Module\UnitTest.Show\obj\Debug\UnitTest.Show.pdb
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\bin\Debug\UnitTest.Show.dll
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\bin\Debug\UnitTest.Show.pdb
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\bin\Debug\Extend.Demo.dll
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\bin\Debug\Extend.Demo.pdb
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\obj\Debug\UnitTest.Show.csprojResolveAssemblyReference.cache
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\obj\Debug\UnitTest.Show.dll
+D:\MyProjects\Module.Demo\Ice.Module\UnitTest.Show\obj\Debug\UnitTest.Show.pdb

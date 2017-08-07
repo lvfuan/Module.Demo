@@ -494,7 +494,7 @@ namespace NPOI.ExcelHandle
                 count = workbook.NumberOfSheets;
 
             }
-            catch (Exception exception)
+            catch 
             {
                 //wl.WriteLogs(exception.ToString());
             }

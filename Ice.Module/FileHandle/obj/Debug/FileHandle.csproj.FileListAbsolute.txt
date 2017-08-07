@@ -8,3 +8,7 @@ G:\Module.Demo\Ice.Module\FileHandle\bin\Debug\FileHandle.pdb
 G:\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.dll
 G:\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.pdb
+D:\MyProjects\Module.Demo\Ice.Module\FileHandle\bin\Debug\FileHandle.dll
+D:\MyProjects\Module.Demo\Ice.Module\FileHandle\bin\Debug\FileHandle.pdb
+D:\MyProjects\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.dll
+D:\MyProjects\Module.Demo\Ice.Module\FileHandle\obj\Debug\FileHandle.pdb
