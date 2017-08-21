@@ -1,0 +1,14 @@
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.IO.Compression.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\VBCSCompiler.exe
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MyProjects\Module.Demo\Ice.Module\MvcPagerDemo\bin\roslyn\System.ValueTuple.dll

@@ -17,7 +17,8 @@ namespace MvcPagerDemo
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 //defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
-                defaults: new { controller = "AjaxPager", action = "Index", id = UrlParameter.Optional }
+                //defaults: new { controller = "AjaxPager", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "VuePager", action = "Index", id = UrlParameter.Optional }
             );
         }
     }

@@ -21,8 +21,6 @@
                     <th>创建人</th>
                 </tr>
             </thead>
-            @*@foreach (var item in Model)
-                {*@
             <tr v-for="item in Items">
                 <td>{{item.Id}}</td>
                 <td>{{item.Title}}</td>
@@ -30,25 +28,26 @@
                 <td>{{item.CreateTime}}</td>
                 <td>{{item.CreateUser}}</td>
             </tr>
-            @*}*@
         </table>
         <div id="pageDiv">
         </div>
         <br /><br />
     </div>
-    @*<a href="#" onclick="updatePageSys();" />更新分页系统</a>*@
-
     <script src="~/js/jquery-1.10.2.min.js"></script>
     <script src="~/js/vue.min.js"></script>
     <script>
         $(function () {
-            InitVueData(null);
+            var data = '@ViewBag.json'.replace(/&quot;/g, "\"");
+            var json = JSON.parse(data);
+            var content = new Vue({
+                el: '#content',
+                data: json,
+            });
         var psys;
    window.onload = function() {
     psys = new PageSystem('@totalRecord', "pageDiv", 10, showMsg); //总记录数, 分页系统容器，每组10页,回调
     psys.init();
   }
-
   function showMsg(currentPage, pageSize) {
     //回调方法自定义，两个参数，第一个为当前页，第二个为每页记录数
       /****************将currentPage和pageSize请求数据更新列表,最好使用ajax技术******************/
@@ -57,8 +56,7 @@
             data: { pageIndex: currentPage, pageSize: pageSize },
             url: '@Url.Action("Index")',
             success: function (res) {
-                //InitVueData(res);
-                console.log(res)
+                content._data.Items = JSON.parse(res).Items;
             }
         })
   }
@@ -70,19 +68,6 @@
         }
         });
 
-        //vue 初始化数据
-        function InitVueData(data) {
-            if (data == null || data=='undefined'){
-              data = '@ViewBag.json'.replace(/&quot;/g, "\"");
-        }
-            var json = JSON.parse(data);
-        var content= new Vue({
-            el: '#content',
-            data: function () {
-                return json
-            }
-        })
-        }
    function PageSystem(count, divID, grountCount, callBack) {
      this.totolCount = count; //总记录数
      this.initMaxPage = grountCount? grountCount: 5;  //显示页数，如 1 2 3 4 5
