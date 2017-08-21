@@ -15,3 +15,4 @@ D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentSch
 D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\bin\Debug\FluentScheduler.xml
 D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.exe
 D:\MyProjects\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.pdb
+G:\Module.Demo\Ice.Module\Console.FluentScheduler\obj\Debug\Console.FluentScheduler.csproj.CoreCompileInputs.cache

@@ -36,3 +36,4 @@ D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Redis.xm
 D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\bin\Debug\ServiceStack.Text.xml
 D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.dll
 D:\MyProjects\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.pdb
+G:\Module.Demo\Ice.Module\Cache.Redis\obj\Debug\Cache.Redis.csproj.CoreCompileInputs.cache

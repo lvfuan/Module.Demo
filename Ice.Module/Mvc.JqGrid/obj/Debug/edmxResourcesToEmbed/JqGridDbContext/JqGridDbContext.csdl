@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DsbuyerShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Offer_ProductsDetail">
+    <Key>
+      <PropertyRef Name="KID" />
+    </Key>
+    <Property Name="KID" Type="Guid" Nullable="false" />
+    <Property Name="SkuNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Offer_ProductsProductNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Offer_ProducrColorCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Offer_ProductSizeCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Offier_ProductUnitCode" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SkuBarCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SkuWeight" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SkuLength" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SkuWidth" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SkuHeight" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SkuMarketPrice" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SkuWholeSalePrice" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SkuPurchasePrice" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="IsSalePaking" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="IsIntergral" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="Del" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="State" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="Version" Type="Int32" />
+    <Property Name="IsNew" Type="String" MaxLength="1" FixedLength="true" Unicode="true" />
+    <Property Name="IsHot" Type="String" MaxLength="1" FixedLength="true" Unicode="true" />
+    <Property Name="IsDiscount" Type="Boolean" />
+    <Property Name="DefaultImage" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="ProductSkuName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="UpDate" Type="DateTime" Precision="3" />
+    <Property Name="SaleNumber" Type="Int32" />
+    <Property Name="AutogRowID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityContainer Name="DsbuyerShopEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Offer_ProductsDetail" EntityType="Self.Offer_ProductsDetail" />
+  </EntityContainer>
+</Schema>

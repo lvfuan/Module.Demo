@@ -5,7 +5,6 @@ F:\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.dll
 F:\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.pdb
 G:\Module.Demo\Ice.Module\Framework.Dapper\bin\Debug\Framework.Dapper.dll
 G:\Module.Demo\Ice.Module\Framework.Dapper\bin\Debug\Framework.Dapper.pdb
-G:\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.csprojResolveAssemblyReference.cache
 G:\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.dll
 G:\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.pdb
 D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\bin\Debug\Framework.Dapper.dll
@@ -13,3 +12,5 @@ D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\bin\Debug\Framework.Dapper
 D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.dll
 D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.pdb
 D:\MyProjects\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.csprojResolveAssemblyReference.cache
+G:\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.csprojResolveAssemblyReference.cache
+G:\Module.Demo\Ice.Module\Framework.Dapper\obj\Debug\Framework.Dapper.csproj.CoreCompileInputs.cache

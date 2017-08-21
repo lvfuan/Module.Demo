@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DsbuyerShopModelStoreContainer" CdmEntityContainer="DsbuyerShopEntities">
+    <EntitySetMapping Name="Offer_ProductsDetail">
+      <EntityTypeMapping TypeName="DsbuyerShopModel.Offer_ProductsDetail">
+        <MappingFragment StoreEntitySet="Offer_ProductsDetail">
+          <ScalarProperty Name="KID" ColumnName="KID" />
+          <ScalarProperty Name="SkuNo" ColumnName="SkuNo" />
+          <ScalarProperty Name="Offer_ProductsProductNo" ColumnName="Offer_ProductsProductNo" />
+          <ScalarProperty Name="Offer_ProducrColorCode" ColumnName="Offer_ProducrColorCode" />
+          <ScalarProperty Name="Offer_ProductSizeCode" ColumnName="Offer_ProductSizeCode" />
+          <ScalarProperty Name="Offier_ProductUnitCode" ColumnName="Offier_ProductUnitCode" />
+          <ScalarProperty Name="SkuBarCode" ColumnName="SkuBarCode" />
+          <ScalarProperty Name="SkuWeight" ColumnName="SkuWeight" />
+          <ScalarProperty Name="SkuLength" ColumnName="SkuLength" />
+          <ScalarProperty Name="SkuWidth" ColumnName="SkuWidth" />
+          <ScalarProperty Name="SkuHeight" ColumnName="SkuHeight" />
+          <ScalarProperty Name="SkuMarketPrice" ColumnName="SkuMarketPrice" />
+          <ScalarProperty Name="SkuWholeSalePrice" ColumnName="SkuWholeSalePrice" />
+          <ScalarProperty Name="SkuPurchasePrice" ColumnName="SkuPurchasePrice" />
+          <ScalarProperty Name="IsSalePaking" ColumnName="IsSalePaking" />
+          <ScalarProperty Name="IsIntergral" ColumnName="IsIntergral" />
+          <ScalarProperty Name="Del" ColumnName="Del" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="Version" ColumnName="Version" />
+          <ScalarProperty Name="IsNew" ColumnName="IsNew" />
+          <ScalarProperty Name="IsHot" ColumnName="IsHot" />
+          <ScalarProperty Name="IsDiscount" ColumnName="IsDiscount" />
+          <ScalarProperty Name="DefaultImage" ColumnName="DefaultImage" />
+          <ScalarProperty Name="ProductSkuName" ColumnName="ProductSkuName" />
+          <ScalarProperty Name="UpDate" ColumnName="UpDate" />
+          <ScalarProperty Name="SaleNumber" ColumnName="SaleNumber" />
+          <ScalarProperty Name="AutogRowID" ColumnName="AutogRowID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
