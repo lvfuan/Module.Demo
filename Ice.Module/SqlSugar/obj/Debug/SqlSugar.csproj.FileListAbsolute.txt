@@ -24,3 +24,4 @@ D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\Oracle.ManagedDataAccess
 D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\bin\Debug\System.Data.SQLite.dll
 D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.dll
 D:\MyProjects\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.pdb
+G:\Module.Demo\Ice.Module\SqlSugar\obj\Debug\SqlSugar.csproj.CoreCompileInputs.cache

@@ -37,3 +37,4 @@ D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\bin\Debug\SqlSugar.pdb
 D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.csprojResolveAssemblyReference.cache
 D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.exe
 D:\MyProjects\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.pdb
+G:\Module.Demo\Ice.Module\MySqlTest\obj\Debug\MySqlTest.csproj.CoreCompileInputs.cache

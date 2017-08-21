@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DsbuyerShopModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Offer_ProductsDetail">
+          <Key>
+            <PropertyRef Name="KID" />
+          </Key>
+          <Property Name="KID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="SkuNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Offer_ProductsProductNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Offer_ProducrColorCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Offer_ProductSizeCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Offier_ProductUnitCode" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="SkuBarCode" Type="nvarchar" MaxLength="50" />
+          <Property Name="SkuWeight" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="SkuLength" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="SkuWidth" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="SkuHeight" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="SkuMarketPrice" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="SkuWholeSalePrice" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="SkuPurchasePrice" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="IsSalePaking" Type="char" MaxLength="1" />
+          <Property Name="IsIntergral" Type="char" MaxLength="1" />
+          <Property Name="Del" Type="char" MaxLength="1" />
+          <Property Name="State" Type="char" MaxLength="1" />
+          <Property Name="Version" Type="int" />
+          <Property Name="IsNew" Type="nchar" MaxLength="1" />
+          <Property Name="IsHot" Type="nchar" MaxLength="1" />
+          <Property Name="IsDiscount" Type="bit" />
+          <Property Name="DefaultImage" Type="nvarchar" MaxLength="500" />
+          <Property Name="ProductSkuName" Type="nvarchar" MaxLength="500" />
+          <Property Name="UpDate" Type="datetime" />
+          <Property Name="SaleNumber" Type="int" />
+          <Property Name="AutogRowID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="DsbuyerShopModelStoreContainer">
+          <EntitySet Name="Offer_ProductsDetail" EntityType="Self.Offer_ProductsDetail" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DsbuyerShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Offer_ProductsDetail">
+          <Key>
+            <PropertyRef Name="KID" />
+          </Key>
+          <Property Name="KID" Type="Guid" Nullable="false" />
+          <Property Name="SkuNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Offer_ProductsProductNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Offer_ProducrColorCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Offer_ProductSizeCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Offier_ProductUnitCode" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="SkuBarCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SkuWeight" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="SkuLength" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="SkuWidth" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="SkuHeight" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="SkuMarketPrice" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="SkuWholeSalePrice" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="SkuPurchasePrice" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="IsSalePaking" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="IsIntergral" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="Del" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="State" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="Version" Type="Int32" />
+          <Property Name="IsNew" Type="String" MaxLength="1" FixedLength="true" Unicode="true" />
+          <Property Name="IsHot" Type="String" MaxLength="1" FixedLength="true" Unicode="true" />
+          <Property Name="IsDiscount" Type="Boolean" />
+          <Property Name="DefaultImage" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="ProductSkuName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="UpDate" Type="DateTime" Precision="3" />
+          <Property Name="SaleNumber" Type="Int32" />
+          <Property Name="AutogRowID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityContainer Name="DsbuyerShopEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Offer_ProductsDetail" EntityType="Self.Offer_ProductsDetail" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DsbuyerShopModelStoreContainer" CdmEntityContainer="DsbuyerShopEntities">
+          <EntitySetMapping Name="Offer_ProductsDetail">
+            <EntityTypeMapping TypeName="DsbuyerShopModel.Offer_ProductsDetail">
+              <MappingFragment StoreEntitySet="Offer_ProductsDetail">
+                <ScalarProperty Name="KID" ColumnName="KID" />
+                <ScalarProperty Name="SkuNo" ColumnName="SkuNo" />
+                <ScalarProperty Name="Offer_ProductsProductNo" ColumnName="Offer_ProductsProductNo" />
+                <ScalarProperty Name="Offer_ProducrColorCode" ColumnName="Offer_ProducrColorCode" />
+                <ScalarProperty Name="Offer_ProductSizeCode" ColumnName="Offer_ProductSizeCode" />
+                <ScalarProperty Name="Offier_ProductUnitCode" ColumnName="Offier_ProductUnitCode" />
+                <ScalarProperty Name="SkuBarCode" ColumnName="SkuBarCode" />
+                <ScalarProperty Name="SkuWeight" ColumnName="SkuWeight" />
+                <ScalarProperty Name="SkuLength" ColumnName="SkuLength" />
+                <ScalarProperty Name="SkuWidth" ColumnName="SkuWidth" />
+                <ScalarProperty Name="SkuHeight" ColumnName="SkuHeight" />
+                <ScalarProperty Name="SkuMarketPrice" ColumnName="SkuMarketPrice" />
+                <ScalarProperty Name="SkuWholeSalePrice" ColumnName="SkuWholeSalePrice" />
+                <ScalarProperty Name="SkuPurchasePrice" ColumnName="SkuPurchasePrice" />
+                <ScalarProperty Name="IsSalePaking" ColumnName="IsSalePaking" />
+                <ScalarProperty Name="IsIntergral" ColumnName="IsIntergral" />
+                <ScalarProperty Name="Del" ColumnName="Del" />
+                <ScalarProperty Name="State" ColumnName="State" />
+                <ScalarProperty Name="Version" ColumnName="Version" />
+                <ScalarProperty Name="IsNew" ColumnName="IsNew" />
+                <ScalarProperty Name="IsHot" ColumnName="IsHot" />
+                <ScalarProperty Name="IsDiscount" ColumnName="IsDiscount" />
+                <ScalarProperty Name="DefaultImage" ColumnName="DefaultImage" />
+                <ScalarProperty Name="ProductSkuName" ColumnName="ProductSkuName" />
+                <ScalarProperty Name="UpDate" ColumnName="UpDate" />
+                <ScalarProperty Name="SaleNumber" ColumnName="SaleNumber" />
+                <ScalarProperty Name="AutogRowID" ColumnName="AutogRowID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="无" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

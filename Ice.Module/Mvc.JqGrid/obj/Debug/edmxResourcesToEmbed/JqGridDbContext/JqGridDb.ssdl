@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DsbuyerShopModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Offer_ProductsDetail">
+    <Key>
+      <PropertyRef Name="KID" />
+    </Key>
+    <Property Name="KID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="SkuNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Offer_ProductsProductNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Offer_ProducrColorCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Offer_ProductSizeCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Offier_ProductUnitCode" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="SkuBarCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="SkuWeight" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SkuLength" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SkuWidth" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SkuHeight" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SkuMarketPrice" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SkuWholeSalePrice" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SkuPurchasePrice" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="IsSalePaking" Type="char" MaxLength="1" />
+    <Property Name="IsIntergral" Type="char" MaxLength="1" />
+    <Property Name="Del" Type="char" MaxLength="1" />
+    <Property Name="State" Type="char" MaxLength="1" />
+    <Property Name="Version" Type="int" />
+    <Property Name="IsNew" Type="nchar" MaxLength="1" />
+    <Property Name="IsHot" Type="nchar" MaxLength="1" />
+    <Property Name="IsDiscount" Type="bit" />
+    <Property Name="DefaultImage" Type="nvarchar" MaxLength="500" />
+    <Property Name="ProductSkuName" Type="nvarchar" MaxLength="500" />
+    <Property Name="UpDate" Type="datetime" />
+    <Property Name="SaleNumber" Type="int" />
+    <Property Name="AutogRowID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DsbuyerShopModelStoreContainer">
+    <EntitySet Name="Offer_ProductsDetail" EntityType="Self.Offer_ProductsDetail" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

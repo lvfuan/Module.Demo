@@ -34,3 +34,4 @@ D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\bin\Debug\SqlSugar.pdb
 D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\SqlServerTest.csprojResolveAssemblyReference.cache
 D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\OrmTest.exe
 D:\MyProjects\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\OrmTest.pdb
+G:\Module.Demo\Ice.Module\SqlServerTest\obj\Debug\SqlServerTest.csproj.CoreCompileInputs.cache

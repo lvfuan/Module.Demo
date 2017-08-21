@@ -1,5 +1,3 @@
-G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\x64\SQLite.Interop.dll
-G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\x86\SQLite.Interop.dll
 G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqlSugar.dll
 G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SyntacticSugar.dll
 G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\Oracle.ManagedDataAccess.dll
@@ -22,3 +20,6 @@ D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqlSugar.pdb
 D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.csprojResolveAssemblyReference.cache
 D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.exe
 D:\MyProjects\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.pdb
+G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqliteTest.exe
+G:\Module.Demo\Ice.Module\SqliteTest\bin\Debug\SqliteTest.pdb
+G:\Module.Demo\Ice.Module\SqliteTest\obj\Debug\SqliteTest.csproj.CoreCompileInputs.cache

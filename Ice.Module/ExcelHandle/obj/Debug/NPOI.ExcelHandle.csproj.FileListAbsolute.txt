@@ -12,3 +12,4 @@ D:\MyProjects\Module.Demo\Ice.Module\ExcelHandle\bin\Debug\NPOI.ExcelHandle.dll
 D:\MyProjects\Module.Demo\Ice.Module\ExcelHandle\bin\Debug\NPOI.ExcelHandle.pdb
 D:\MyProjects\Module.Demo\Ice.Module\ExcelHandle\obj\Debug\NPOI.ExcelHandle.dll
 D:\MyProjects\Module.Demo\Ice.Module\ExcelHandle\obj\Debug\NPOI.ExcelHandle.pdb
+G:\Module.Demo\Ice.Module\ExcelHandle\obj\Debug\NPOI.ExcelHandle.csproj.CoreCompileInputs.cache
